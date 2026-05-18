@@ -1,0 +1,21 @@
+# LabVIEW generated and local files
+*.aliases
+*.lvlps
+*.lvproj.user
+*.lvlibp
+*.llb
+*.bak
+*.tmp
+*.log
+*.cache
+
+# LabVIEW build outputs
+build/
+dist/
+output/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
