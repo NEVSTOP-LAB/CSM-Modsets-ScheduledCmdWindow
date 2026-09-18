@@ -8,6 +8,7 @@
 *.tmp
 *.log
 *.cache
+*.UserState
 
 # LabVIEW build outputs
 build/
